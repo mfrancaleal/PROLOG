@@ -6,7 +6,7 @@
 package prolog;
 
 import java.util.Hashtable;
-import jpl.*;
+
 import org.jpl7.Query;
 
 
